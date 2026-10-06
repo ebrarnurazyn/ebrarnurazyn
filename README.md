@@ -17,7 +17,7 @@ Kırıkkale Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Yapay zekâ 
 
 | Proje | Açıklama | Teknoloji |
 |---|---|---|
-| [Kelime Rotası](https://github.com/ebrarnurazyn/kelime-rotasi) | Ortaokul öğrencileri için İngilizce kelime çalışma uygulaması | HTML, CSS, JavaScript |
+| [Kelime Rotası](https://github.com/ebrarnurazyn/kelime-rotasi) | Ortaokul öğrencileri için İngilizce kelime çalışma uygulaması | HTML |
 | [Sepet App](https://github.com/ebrarnurazyn/sepet-app) | Alışveriş sepeti arayüzü | HTML, CSS, JavaScript |
 
 ---

@@ -2,7 +2,7 @@
 
 Kırıkkale Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Yapay zekâ alanında **makine öğrenmesi ve LLM/RAG** üzerine çalışıyorum.
 
-- 🔭 Şu an üzerinde çalıştığım proje: **Yapay Zekâ Destekli Mikro-Kredi Skorlama Sistemi** (bitirme projesi)
+- 🔭 Şu an üzerinde çalıştığım proje: **Yapay Zekâ Destekli Mikro-Kredi Skorlama Sistemi** 
 - 🌱 Öğrendiklerim: C++ (LeetCode ile), veritabanları
 - 🎯 İlgi alanlarım: makine öğrenmesi, LLM/RAG, eğitim teknolojileri
 - 📫 İletişim: [ebrarnura0@gmail.com](mailto:ebrarnura0@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ebrarnuraozyon/)
